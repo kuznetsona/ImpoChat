@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300052449826",
+    "project_id": "improchat-74000",
+    "storage_bucket": "improchat-74000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300052449826:android:c4d305f5820fbcb6ff987b",
+        "android_client_info": {
+          "package_name": "com.example.improchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300052449826-ppiabbvr0eqd0s7tu981eg9aq9ki5lef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.improchat",
+            "certificate_hash": "cbc6400c12e8a6aacfe43cdcb516df056333b3ec"
+          }
+        },
+        {
+          "client_id": "300052449826-dkvnbj8vqdnp7vu4rlkslukkjfa0hu2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoPwZWww1HM9xZIggiQZTY4AcvJ38n18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300052449826-dkvnbj8vqdnp7vu4rlkslukkjfa0hu2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
